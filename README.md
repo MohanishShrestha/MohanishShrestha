@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @MohanishShrestha
-- 👀 I’m interested in coding and learning new things
+ # Introduction
+- 👋 **Hi, I’m @MohanishShrestha**
+- 👀 *I’m interested in coding and learning new things*
 - 🌱 I’m currently studing BCA
 - ⚡ Fun fact: I am .......
 
